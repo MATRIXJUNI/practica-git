@@ -12,3 +12,7 @@ elif edad >= 18 and edad <=150 :
 
 else :
     print("esa edad no es valida")
+
+else :
+print("conflicto")
+#creando conflcito
